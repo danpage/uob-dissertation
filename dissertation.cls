@@ -3,6 +3,10 @@
 % Use of this source code is restricted per the CC BY-SA license, a copy of
 % which can be found via http://creativecommons.org (and should be included 
 % as LICENSE.txt within the associated archive or repository).
+%
+% You can find some documentation in the associated repo. hosted at
+%
+% https://github.com/danpage/uob-dissertation
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{dissertation}[2017/07/07, Daniel Page <csdsp@bristol.ac.uk>]
