@@ -81,8 +81,8 @@ at the
   build system: the directory
   `./build`
   is used to capture all built output.
-
-- Targets in `Makefile` automate common tasks, e.g.,
+  The targets within `Makefile` can be used to automate common tasks, 
+  e.g.,
 
   - the command
 
